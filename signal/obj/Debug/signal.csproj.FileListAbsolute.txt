@@ -1,0 +1,17 @@
+D:\My\projectcode\signal\signal\bin\signal.dll
+D:\My\projectcode\signal\signal\bin\signal.pdb
+D:\My\projectcode\signal\signal\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\My\projectcode\signal\signal\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\My\projectcode\signal\signal\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\My\projectcode\signal\signal\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\My\projectcode\signal\signal\bin\Microsoft.Web.Infrastructure.dll
+D:\My\projectcode\signal\signal\bin\Newtonsoft.Json.dll
+D:\My\projectcode\signal\signal\bin\Owin.dll
+D:\My\projectcode\signal\signal\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\My\projectcode\signal\signal\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\My\projectcode\signal\signal\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\My\projectcode\signal\signal\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\My\projectcode\signal\signal\bin\Newtonsoft.Json.xml
+D:\My\projectcode\signal\signal\obj\Debug\signal.csprojResolveAssemblyReference.cache
+D:\My\projectcode\signal\signal\obj\Debug\signal.dll
+D:\My\projectcode\signal\signal\obj\Debug\signal.pdb
